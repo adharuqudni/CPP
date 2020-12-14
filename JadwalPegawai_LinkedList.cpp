@@ -17,7 +17,6 @@ void sisipdepan(typeinfo IB);
 void sisiptengah(typeinfo IB);
 void sisipbelakang(typeinfo IB);
 void cetaklist();
-void cetaktengah(typeinfo IB);
 
 int main(){
 	buatlistbaru();
